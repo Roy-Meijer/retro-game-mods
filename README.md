@@ -1,2 +1,2 @@
-# retro-game-mods
-mods of retro game consoles
+# Retro game mods
+I place some stuff here which I made for modding retro game consoles
